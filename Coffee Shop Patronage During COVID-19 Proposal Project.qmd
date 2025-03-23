@@ -1,0 +1,63 @@
+---
+title: "Coffee Shop Patronage During COVID-19"
+author: "Cynthia Garcia, Tatianna Wong, Matthew Delgado, Rozalyn Hagan, Gabriel Medeles"
+date: "2025-03-22"
+format: revealjs
+toc: true
+toc-depth: 4
+toc-location: right-body
+code-overflow: wrap
+number-sections: true
+embed-resources: true
+#css: styles.css
+execute:
+  echo: fenced
+  freeze: auto
+  warning: false
+  message: false 
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+## Problem Denfinition 
+COVID-19 changed how costumers interact with different hospitality/service establishments but we will be examining coffee shops in particular. This study assess whether customers felt safer when they saw staff actively cleaning tables, machines, and counter tops at the coffee shops. 
+
+
+## Research Objectives 
+- Determine if the effect of visible sanitation and COVID-19 prevention steps being implemented helped gain costumers trust.
+- Identify which coffee shops during COVID-19 were trending.
+
+
+## Importance of the Topic
+- These behaviors allow coffee shops to understand and come up with the necessary strategies to improve service. 
+
+
+## Methods 
+- **Data set**: Coffee shop visits during COVID-19.
+- **Data set**: Choosing a coffee shop that practiced COVID-19 prevention rules. 
+- **Data set**: How long was the visit at the coffee shop. 
+- **Independent Variable (IV)**: Does costumer perception of the presence of visible sanitation/COVID-19 prevention measures affect which coffee shop they choose (Yes/No).
+- **Dependent Variable (DV)**: Number of daily costumers and customer preference for safety measures.  
+- **Plan for Data Wrangling**: Filter data set for 'Indicating the degree to which you agree or disagree with each of the following statements regarding your behaviors when you stayed in a coffee shop during March 2020-May 2021'. 
+- **Plan for Data Visualization**: Scatter Plot showing the relationship between safety preference score and costumer visits. 
+
