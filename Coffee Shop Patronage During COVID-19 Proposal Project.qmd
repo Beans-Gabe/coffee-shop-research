@@ -62,9 +62,18 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 - **Plan for Data Visualization**: Scatter Plot showing the relationship between safety preference score and costumer visits. 
 
 
-## RQ1 / H1
+## RQ1 / H1 (Cynthia)
 
 ### IV's and Dv's
+
+### Plan for Data Wrangling
+
+### Plan for Data Visualization
+
+
+## RQ2 / H2  (Tatiana)
+
+### IV's and DV's
 
 ### Plan for Data Wrangling
 
