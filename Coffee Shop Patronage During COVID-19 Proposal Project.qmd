@@ -62,6 +62,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 - **Plan for Data Visualization**: Scatter Plot showing the relationship between safety preference score and costumer visits. 
 
 
+
 ## RQ1 / H1 (Gabriel)
 
 ### IV's and Dv's
@@ -69,6 +70,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 ### Plan for Data Wrangling
 
 ### Plan for Data Visualization
+
 
 
 ## RQ2 / H2  (Cynthia)
@@ -80,6 +82,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 ### Plan for Data Visualization
 
 
+
 ## RQ5 / H5  (Rozalyn)
 
 ## IV's and DV's
@@ -87,6 +90,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 ### Plan for Data Wrangling
 
 ### Plan for Data Visualization
+
 
 
 ## RQ5 / H5  (Matthew)
@@ -106,6 +110,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 ### Plan for Data Wrangling
 
 ### Plan for Data Visualization
+
 
 
 ## Conclusion
