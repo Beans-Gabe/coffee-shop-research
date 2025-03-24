@@ -64,7 +64,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 
 ## RQ5 / H5  (Rozalyn)
 
-## IV's and DV's
+### IV's and DV's
 
 ### Plan for Data Wrangling
 
@@ -74,7 +74,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 
 ## RQ5 / H5  (Matthew)
 
-## IV's and DV's
+### IV's and DV's
 
 ### Plan for Data Wrangling
 
@@ -84,7 +84,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 
 ## RQ5 / H5  (Tatiana)
 
-## IV's and DV's
+### IV's and DV's
 
 ### Plan for Data Wrangling
 
