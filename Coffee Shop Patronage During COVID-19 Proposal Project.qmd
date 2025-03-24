@@ -60,4 +60,5 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 - **Dependent Variable (DV)**: Number of daily costumers and customer preference for safety measures.  
 - **Plan for Data Wrangling**: Filter data set for 'Indicating the degree to which you agree or disagree with each of the following statements regarding your behaviors when you stayed in a coffee shop during March 2020-May 2021'. 
 - **Plan for Data Visualization**: Scatter Plot showing the relationship between safety preference score and costumer visits. 
-
+dfkksjfksdf
+jkdjkskdsds
