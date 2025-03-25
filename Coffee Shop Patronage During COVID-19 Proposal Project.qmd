@@ -83,7 +83,7 @@ Popssible ways to be measured:
 
 1. Bar Charts – Comparing Protocol Adoption 
 Purpose: Show the percentage of coffee shops (chains vs. independents) that adopted each protocol. 
-X-axis: Types of protocols (masks, contactless payment, seating limits, etc.)
+X-axis: Types of protocols (masks, contactless payment, seating limits)
 Y-axis: Percentage of coffee shops enforcing each protocol
 Color: Chain vs. Independent
 
