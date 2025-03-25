@@ -53,13 +53,20 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 
 
 ## RQ2 / H2  (Cynthia)
-**RQ:** Did coffee shop chains have different protocols than individuals?
+**RQ:** 
 
-**Hypothesis:** Coffee shop chains implemented stricter and more standardized COVID-19 protocols than independent coffee shops due to corporate policies and liability concerns.
+Did coffee shop chains have different protocols than individuals?
+
+**Hypothesis:** 
+
+Coffee shop chains implemented stricter and more standardized COVID-19 protocols than independent coffee shops due to corporate policies and liability concerns.
 
 **Why?:**
+
 -Chains typically follow corporate-wide mandates that ensure uniformity.
+
 -Large businesses are more exposed to legal and public scrutiny, so they tend to enforce stricter safety measures.
+
 -Independently owned coffee shops may have had more freedom to adapt based on local customer expectations rather than rigid corporate rules.
 
 ### IV's and DV's
