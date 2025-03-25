@@ -76,8 +76,6 @@ Popssible ways to be measured:
 -Consistency across locations (chains might have uniform policies, while independents might vary)
 
 
-
-
 ### Plan for Data Wrangling
 
 ### Plan for Data Visualization
