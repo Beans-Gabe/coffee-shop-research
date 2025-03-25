@@ -77,8 +77,26 @@ Popssible ways to be measured:
 
 
 ### Plan for Data Wrangling
+-
 
 ### Plan for Data Visualization
+
+1. Bar Charts – Comparing Protocol Adoption 
+Purpose: Show the percentage of coffee shops (chains vs. independents) that adopted each protocol. 
+X-axis: Types of protocols (masks, contactless payment, seating limits, etc.)
+Y-axis: Percentage of coffee shops enforcing each protocol
+Color: Chain vs. Independent
+
+2. Box Plot – Protocol Strictness Distribution
+Purpose: Show the spread of strictness scores for chains vs. independent coffee shops.
+X-axis: Coffee shop type (Chain vs. Independent)
+Y-axis: Strictness score (sum of protocols enforced)
+
+3. Heatmap – Correlation Between Visitations & Protocols
+Purpose: Show how strictness of protocols impacted customer visitations.
+X-axis: Strictness levels (low, medium, high)
+Y-axis: Change in visitations (%)
+
 
 
 
