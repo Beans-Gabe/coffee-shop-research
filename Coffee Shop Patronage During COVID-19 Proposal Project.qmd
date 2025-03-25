@@ -108,7 +108,7 @@ Y-axis: Change in visitations (%)
 **Why?:** 
 Individuals with underlying health problems are more susceptible to COVID-19 and these underlying problems can cause it to have worse effects and create complications in ones health. 
 
-# IV's and DV's
+### IV's and DV's
 
 IV: Presence of Underlying Health Issue
 -The factor that affects whether or not individuals wear a mask
@@ -117,9 +117,9 @@ DV: Wearing of a Mask in a Coffee Shop
 - This factor is responsive to whether or not subjects believe they have an underlying health problem.
 - Can be classified as "did wear mask" or "did not wear mask"
 
-# Plan for Data Wrangling
+### Plan for Data Wrangling
 
-## Plan for Data Visualization
+### Plan for Data Visualization
 
 
 
