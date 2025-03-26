@@ -19,15 +19,20 @@ execute:
   message: false 
 editor: visual
 ---
-```{r, echo=FALSE, results='asis'}
-cat('
+```{html}
 <style>
-  body {
-    background-color: #CCD6E4;
-    color: black;
+  .reveal {
+    background-color: #CCD6E4 !important; /* Apply to entire presentation background */
+  }
+
+  .reveal .slides {
+    color: black; /* Text color inside slides */
+  }
+
+  section {
+    background-color: #CCD6E4 !important; /* Apply to each slide if needed */
   }
 </style>
-')
 ```
 
 
