@@ -76,7 +76,9 @@ Possible ways to be measured:
 
 
 ### Plan for Data Wrangling
--
+-Filter for relevant variables
+-Fix inconsistencies: If protocols are recorded differently, make sure they are uniform.
+-Time Period Standardization: If visitations or protocols changed over time, align them to a consistent timeframe
 
 ### Plan for Data Visualization
 
