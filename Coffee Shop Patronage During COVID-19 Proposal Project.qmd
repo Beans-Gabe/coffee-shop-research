@@ -1,5 +1,6 @@
 ---
-title: "Coffee Shop Patronage During COVID-19"
+title: "Safe Sips"
+subtitle: "Coffee Shop Patronage During COVID-19"
 author: "Cynthia Garcia, Tatianna Wong, Matthew Delgado, Rozalyn Hagan, Gabriel Medeles"
 date: "2025-03-22"
 format: revealjs
@@ -19,7 +20,7 @@ editor: visual
 ---
 
 ## Problem Denfinition 
-COVID-19 changed how costumers interact with different hospitality/service establishments but we will be examining coffee shops in particular. This study assess whether customers felt safer when they saw staff actively cleaning tables, machines, and counter tops at the coffee shops.
+COVID-19 changed how costumers interact with different hospitality/service establishments but we will be examining coffee shops in particular. This study assesses whether customers felt safer when they saw staff actively cleaning tables, machines, and counter tops at the coffee shops.
 
 
 ## Research Objectives 
@@ -34,26 +35,23 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 ## Methods 
 - **Data set**: Coffee shop visits during COVID-19.
 - **Data set**: Choosing a coffee shop that practiced COVID-19 prevention rules. 
-- **Data set**: How long was the visit at the coffee shop. 
-- **Independent Variable (IV)**: Does costumer perception of the presence of visible sanitation/COVID-19 prevention measures affect which coffee shop they choose (Yes/No).
-- **Dependent Variable (DV)**: Number of daily costumers and customer preference for safety measures.  
-- **Plan for Data Wrangling**: Filter data set for 'Indicating the degree to which you agree or disagree with each of the following statements regarding your behaviors when you stayed in a coffee shop during March 2020-May 2021'. 
-- **Plan for Data Visualization**: Scatter Plot showing the relationship between safety preference score and costumer visits. 
-
+- **Data set**: How long was the visit to the coffee shop?
 
 
 ## RQ1 / H1 (Gabriel)
-
+**RQ:** Were people taking the proper precautions and COVID-19 prevention steps when out in these hospitality establishments, in particular coffee shops? For example, were they carrying and using their mask and hand sanitizer, did they frequently was their hands, and made efforts to get vaccinated? 
+**H1:** Individuals who visited coffee shops during the COVID-19 pandemic were more likely to take proper precautions, such as wearing masks, using hand sanitizer, and practicing hygiene when these establishments enforced strict safety measures.
 ### IV's and Dv's
-
+- **Independent Variable (IV)**: Does costumer perception of the presence of visible sanitation/COVID-19 prevention measures affect which coffee shop they choose (Yes/No).
+- **Dependent Variable (DV)**: Number of daily customers and customer preference for safety measures.  
 ### Plan for Data Wrangling
-
+- Filter the data set for 'Indicating the degree to which you agree or disagree with each of the following statements regarding your behaviors when you stayed in a coffee shop during March 2020- May 2021'. 
 ### Plan for Data Visualization
-
+- Scatter Plot showing the relationship between safety preference score and customer visits.
 
 
 ## RQ2 / H2  (Cynthia)
-**RQ:**  Did coffee shop chains have different protocols than independent shops?
+**RQ:**  Did coffee shop chains have protocols different from independent shops?
 
 **Hypothesis:** Coffee shop chains implemented stricter and more standardized COVID-19 protocols than independent coffee shops due to corporate policies and liability concerns.
 
@@ -63,14 +61,14 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 -Independently owned coffee shops may have had more freedom to adapt based on local customer expectations rather than rigid corporate rules.
 
 
-### IV's and DV's
+### IVs and DVs
 
 IV: Type of Coffee Shop (Categorical: Chain vs. Independent)
 -This is the factor that determines differences in COVID-19 protocols.
 -Can classify coffee shops in your dataset as either "Chain" or "Independent."
 
 DV: Strictness/Standardization of COVID-19 Protocols
-Popssible ways to be measured:
+Possible ways to be measured:
 -Number of enforced protocols (mask mandates, seating restrictions, contactless payment, temperature checks)
 -Level of enforcement (corporate-mandated vs. discretionary policies)
 -Consistency across locations (chains might have uniform policies, while independents might vary)
@@ -103,17 +101,17 @@ Y-axis: Change in visitations (%)
 ## RQ3 / H3  (Rozalyn)
 **RQ:**  Are people who believe they have underlying health problems more likely to wear a mask in a coffee shop?
 
-**Hypothesis:** People that believe they have underlying health problems are more likely to wear a mask in a coffee shop. 
+**Hypothesis:** People who believe they have underlying health problems are more likely to wear a mask in a coffee shop. 
 
 **Why?:** 
-Individuals with underlying health problems are more susceptible to COVID-19 and these underlying problems can cause it to have worse effects and create complications in ones health. 
+Individuals with underlying health problems are more susceptible to COVID-19, and these underlying problems can cause it to have worse effects and create complications in one's health. 
 
-### IV's and DV's
+### IVs and DVs
 
 IV: Presence of Underlying Health Issue
 -The factor that affects whether or not individuals wear a mask
 -Can classify as either "has underlying health problem (UHP)" or "does not have (UHP)"
-DV: Wearing of a Mask in a Coffee Shop
+DV: Wearing a Mask in a Coffee Shop
 - This factor is responsive to whether or not subjects believe they have an underlying health problem.
 - Can be classified as "did wear mask" or "did not wear mask"
 
@@ -125,7 +123,7 @@ DV: Wearing of a Mask in a Coffee Shop
 
 ## RQ4 / H4  (Matthew)
 
-### IV's and DV's
+### IVs and DVs
 
 ### Plan for Data Wrangling
 
@@ -135,7 +133,7 @@ DV: Wearing of a Mask in a Coffee Shop
 
 ## RQ5 / H5 "Did Coffee Shops Enforce Sanitation Protocols?" (Tatianna)
 
-### IV's and DV's
+### IVs and DVs
 
 ### Plan for Data Wrangling
 
