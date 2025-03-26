@@ -162,8 +162,8 @@ IV: Customer/Staff Health & Poster
 - The health of customers and staff as well as posters will determine the sanitary enforcement, being either healthy and good if enforced or unhealthy and suffering if not enforced   
 - Both of these variables are classified as independent because they change the outcome and are not the dependents   
 
-DV: Sanitation Enforcement   
-- This factor is both the resulting aspect we are studying for to answer the RQ as well as the solitary decisor for the cofee shops' data     
+DV: Sanitation Enforcement     
+- This factor is both the resulting aspect we are studying for to answer the RQ as well as the solitary decisor for the cofee shops' data       
 - This depends on the other two factors of customer/staff health and the posters' enforcement of protocols   
 
 ### Plan for Data Wrangling 
