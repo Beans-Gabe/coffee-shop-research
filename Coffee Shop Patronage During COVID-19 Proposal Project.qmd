@@ -141,13 +141,29 @@ DV: Wearing a Mask in a Coffee Shop
 
 
 
-## RQ5 / H5 "Did Coffee Shops Enforce Sanitation Protocols?" (Tatianna)
+## RQ5 / H5 (Tatianna)
+
+**RQ:** Did coffee shops enforce sanitation protocols? 
+
+**Hypothesis:** Coffee shops with poster reminders about sanitation do enforce protocols. 
+
+**Reasoning:** The posters serve as encouragement for both staff and customers, therefore encouraging the enforcement of sanitation protocols as well with emphasis in safety. 
 
 ### IVs and DVs
 
-### Plan for Data Wrangling
+IV: Customer/Staff Health & Poster 
+- The health of customers and staff as well as posters will determine the sanitary enforcement, being either healthy and good if enforced or unhealthy and suffering if not enforced 
+- Both of these variables are classified as independent because they change the outcome and are not the dependents 
+
+DV: Sanitation Enforcement 
+- This factor is both the resulting aspect we are studying for to answer the RQ as well as the solitary decisor for the cofee shops' data 
+- This depends on the other two factors of customer/staff health and the posters' enforcement of protocols 
+
+### Plan for Data Wrangling 
+- 
 
 ### Plan for Data Visualization
+- 
 
 
 
