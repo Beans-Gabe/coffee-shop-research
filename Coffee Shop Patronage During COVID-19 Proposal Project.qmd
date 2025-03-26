@@ -117,10 +117,19 @@ DV: Wearing a Mask in a Coffee Shop
 - Can be classified as "did wear mask" or "did not wear mask"
 
 ### Plan for Data Wrangling
+- Believers
+- First, filter the data for all particpant ids that answered yes to uhc2.
+- Then, cross reference the filtered participant ids that answered yes to uhc2 to their likelihood that they will wear a mask in a coffee shop(past_behvr2_1).
+
+- Non-Believers
+- First, filter the data for all particpant ids that answered no to uhc2.
+- Then, cross reference the filtered participant ids that answered no to uhc2 to their likelihood that they will wear a mask in a coffee shop(past_behvr2_1).
+
 
 ### Plan for Data Visualization
+- One bar chart that takes the particpant ids from those who believe they have an underlying condition and compare them to the likelihood that they wear a mask in a coffee shop.
 
-
+- A second bar chart that takes the particpant ids from those who don't believe they have an underlying condition and compare them to the likelihood that they wear a mask in a coffee shop.
 
 ## RQ4 / H4  (Matthew)
 
