@@ -179,10 +179,15 @@ DV: Sanitation Enforcement
 - This depends on the other two factors of customer/staff health and the posters' enforcement of protocols 
 
 ### Plan for Data Wrangling 
-- 
+- Filter coffee shop appearances by category and numerical value of sanitation reminders present 
+- Filter positive health of staff/customers 
+- Compare the data 
 
 ### Plan for Data Visualization
-- 
+- Table presentation for categorical data 
+- Bar chart for sanitation reminders 
+- Bar chart for health recordings of staff/customer 
+- Grouped bar chart overall for comparison 
 
 
 
