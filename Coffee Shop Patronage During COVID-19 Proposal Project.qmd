@@ -148,11 +148,17 @@ DV: Wearing a Mask in a Coffee Shop
 - `beh_int1`: Self-reported willingness to visit (1-7 scale)  
 - `duration`: Actual visit duration (ordinal categories)
 
-### Plan for Data Wrangling
+### Plan for Data Wrangling  
+- Convert continuous age to categorical groups
+- Clean duration categories by removing unrealistic values  
+- Check for missing data and handle appropriately
+- Compare average willingness scores across age groups  
+- Analyze visit duration patterns by generation
 
 ### Plan for Data Visualization
-
-
+1. **Grouped bar chart:** Comparing visit duration frequency across age groups  
+2. **Boxplot:** Showing distribution of willingness scores for each age category
+3. **Scatter Plot**: Examining correlation between age and willingness scores
 
 ## RQ5 / H5 (Tatianna)
 
