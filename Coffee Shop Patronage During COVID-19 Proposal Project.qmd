@@ -57,7 +57,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 **Hypothesis:** Coffee shop chains implemented stricter and more standardized COVID-19 protocols than independent coffee shops due to corporate policies and liability concerns.
 
 ### IVs and DVs
-1. IV: Type of Coffee Shop (Categorical: Chain vs. Independent)
+1. IV: Type of Coffee Shop (Categorical: Chain vs. Independent).
 - This is the factor that determines differences in COVID-19 protocols.
 - Can classify coffee shops in the dataset as either "Chain" or "Independent."
 
