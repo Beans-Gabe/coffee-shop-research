@@ -58,14 +58,14 @@ COVID-19 changed how customers interact with different hospitality/service estab
 
 ### IVs and DVs
 
-1. IV: Type of Coffee Shop (Categorical: Chain vs. Independent).  
-- This is the factor that determines differences in COVID-19 protocols.  
-- Can classify coffee shops in the dataset as either "Chain" or "Independent."  
+1. IV: Type of Coffee Shop (Categorical: Chain vs. Independent).    
+- This is the factor that determines differences in COVID-19 protocols.    
+- Can classify coffee shops in the dataset as either "Chain" or "Independent."    
 
-2. DV: Strictness/Standardization of COVID-19 Protocols  
-- Number of enforced protocols (mask mandates, seating restrictions, contactless payment, temperature checks)  
-- Level of enforcement (corporate-mandated vs. discretionary policies)  
-- Consistency across locations (chains might have uniform policies, while independents might vary)  
+2. DV: Strictness/Standardization of COVID-19 Protocols    
+- Number of enforced protocols (mask mandates, seating restrictions, contactless payment, temperature checks)      
+- Level of enforcement (corporate-mandated vs. discretionary policies)    
+- Consistency across locations (chains might have uniform policies, while independents might vary)    
 
 ### Plan for Data Wrangling  
 - Filter for relevant variables
@@ -162,8 +162,8 @@ IV: Customer/Staff Health & Poster
 - The health of customers and staff as well as posters will determine the sanitary enforcement, being either healthy and good if enforced or unhealthy and suffering if not enforced   
 - Both of these variables are classified as independent because they change the outcome and are not the dependents   
 
-DV: Sanitation Enforcement 
-- This factor is both the resulting aspect we are studying for to answer the RQ as well as the solitary decisor for the cofee shops' data   
+DV: Sanitation Enforcement   
+- This factor is both the resulting aspect we are studying for to answer the RQ as well as the solitary decisor for the cofee shops' data     
 - This depends on the other two factors of customer/staff health and the posters' enforcement of protocols   
 
 ### Plan for Data Wrangling 
