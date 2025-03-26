@@ -23,11 +23,13 @@ editor: visual
 cat('
 <style>
   body {
-    background-color: #CCD6E4; /* Very light navy blue */
-    color: black; /* Keeps text clear and readable */
+    background-color: #CCD6E4;
+    color: black;
+  }
 </style>
 ')
 ```
+
 
 ## Problem Definition 
 COVID-19 changed how customers interact with different hospitality/service establishments but we will be examining coffee shops in particular. This study assesses whether customers felt safer when they saw staff actively cleaning tables, machines, and counter tops at the coffee shops.
