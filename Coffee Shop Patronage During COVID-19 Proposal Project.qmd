@@ -21,11 +21,11 @@ editor: visual
 ---
 
 ## Problem Definition 
-COVID-19 changed how costumers interact with different hospitality/service establishments but we will be examining coffee shops in particular. This study assesses whether customers felt safer when they saw staff actively cleaning tables, machines, and counter tops at the coffee shops.
+COVID-19 changed how customers interact with different hospitality/service establishments but we will be examining coffee shops in particular. This study assesses whether customers felt safer when they saw staff actively cleaning tables, machines, and counter tops at the coffee shops.
 
 
 ## Research Objectives 
-- Determine if the effect of visible sanitation and COVID-19 prevention steps being implemented helped gain costumers trust.
+- Determine if the effect of visible sanitation and COVID-19 prevention steps being implemented helped gain customers trust.
 - Identify which coffee shops during COVID-19 were trending.
 - Identify which age groups were the most frequent visitors of coffee shops during the pandemic. 
 
@@ -43,7 +43,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 
 **H1:** Individuals who visited coffee shops during the COVID-19 pandemic were more likely to take proper precautions, such as wearing masks, using hand sanitizer, and practicing hygiene when these establishments enforced strict safety measures. 
 
-**Independent Variable(IV):** Does costumer perception of the presence of visible sanitation/COVID-19 prevention measures affect which coffee shop they choose (Yes/No).
+**Independent Variable(IV):** Does customer perception of the presence of visible sanitation/COVID-19 prevention measures affect which coffee shop they choose (Yes/No).
 
 **Dependent Variable(DV):** Number of daily customers and the preference for safety measures for each customer. 
 
