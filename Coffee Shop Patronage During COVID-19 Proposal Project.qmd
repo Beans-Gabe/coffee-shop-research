@@ -40,18 +40,13 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 ## RQ1 & H1 (Gabriel)
 **RQ:** Were people taking the proper precautions and COVID-19 prevention steps when out in these hospitality establishments, in particular coffee shops? For example, were they carrying and using their mask and hand sanitizer, did they frequently was their hands, and made efforts to get vaccinated? 
 
-
 **H1:** Individuals who visited coffee shops during the COVID-19 pandemic were more likely to take proper precautions, such as wearing masks, using hand sanitizer, and practicing hygiene when these establishments enforced strict safety measures. 
-
 
 **Independent Variable(IV):** Does costumer perception of the presence of visible sanitation/COVID-19 prevention measures affect which coffee shop they choose (Yes/No).
 
-
 **Dependent Variable(DV):** Number of daily customers and the preference for safety measures for each customer. 
 
-
 **Plan for Data Wrangling:** Filter the data set for 'Indicating the degree to which you agree or disagree with each of the following statements regarding your behaviors when you stayed in a coffee shop during March 2020- May 2021'. 
-
 
 **Plan for Data Visualization:** Scatter Plot showing the relationship between safety preference score and customer visits.
 
