@@ -132,6 +132,13 @@ DV: Wearing a Mask in a Coffee Shop
 - A second bar chart that takes the particpant ids from those who don't believe they have an underlying condition and compare them to the likelihood that they wear a mask in a coffee shop.
 
 ## RQ4 / H4  (Matthew)
+**RQ:** Did age distribution affect the willingness to visit coffee shops during Covid-19
+
+**Hypothesis:** Younger individuals (e.g., 18-34) were more willing to visit coffee shops during the pandemic than older individuals (e.g., 35+) due to differing risk perceptions and health concerns.
+
+**Why?:**
+- Older individuals face more health concerns, so they were more cautious about visiting public areas such as coffee shops.
+- Younger individuals rely more on coffee shops for their daily lives and social activities, so they are more likely to visit even during the pandemic.
 
 ### IVs and DVs
 
