@@ -147,6 +147,7 @@ DV: Wearing a Mask in a Coffee Shop
 **Dependent Variables (DVs):**    
 - `beh_int1`: Self-reported willingness to visit (1-7 scale)  
 - `duration`: Actual visit duration (ordinal categories)
+
 ### Plan for Data Wrangling
 
 ### Plan for Data Visualization
