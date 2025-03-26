@@ -136,7 +136,7 @@ DV: Wearing a Mask in a Coffee Shop
 
 **Hypothesis:** Younger individuals (e.g., 18-34) were more willing to visit coffee shops during the pandemic than older individuals (e.g., 35+) due to differing risk perceptions and health concerns.
 
-**Why?:**
+**Why?:**  
 - Older individuals face more health concerns, so they were more cautious about visiting public areas such as coffee shops.
 - Younger individuals rely more on coffee shops for their daily lives and social activities, so they are more likely to visit even during the pandemic.
 
