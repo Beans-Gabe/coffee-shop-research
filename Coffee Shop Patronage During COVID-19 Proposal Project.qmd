@@ -158,7 +158,7 @@ DV: Wearing a Mask in a Coffee Shop
 ### Plan for Data Visualization
 1. **Grouped bar chart:** Comparing visit duration frequency across age groups  
 2. **Boxplot:** Showing distribution of willingness scores for each age category
-3. **Scatter Plot**: Examining correlation between age and willingness scores
+3. **Scatter Plot:** Examining correlation between age and willingness scores
 
 ## RQ5 / H5 (Tatianna)
 
