@@ -141,6 +141,9 @@ DV: Wearing a Mask in a Coffee Shop
 - Younger individuals rely more on coffee shops for their daily lives and social activities, so they are more likely to visit even during the pandemic.
 
 ### IVs and DVs
+**Independent Variable (IV):**    
+- `age.x`: Participant age (continuous, 18-74 years)  
+- Will categorize into groups of 18-24, 25-34, 35-44, 45-54, 55+
 
 ### Plan for Data Wrangling
 
