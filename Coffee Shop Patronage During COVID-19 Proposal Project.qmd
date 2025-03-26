@@ -4,6 +4,7 @@ subtitle: "Coffee Shop Patronage During COVID-19"
 author: "Cynthia Garcia, Tatianna Wong, Matthew Delgado, Rozalyn Hagan, Gabriel Medeles"
 date: "2025-03-22"
 format: revealjs
+scrollable: true
 toc: true
 toc-depth: 4
 toc-location: right-body
