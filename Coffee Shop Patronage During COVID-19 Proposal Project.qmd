@@ -57,6 +57,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 **Hypothesis:** Coffee shop chains implemented stricter and more standardized COVID-19 protocols than independent coffee shops due to corporate policies and liability concerns.
 
 **Why?:**
+
 -Chains typically follow corporate-wide mandates that ensure uniformity.
 
 -Large businesses are more exposed to legal and public scrutiny, so they tend to enforce stricter safety measures.
@@ -68,24 +69,19 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 
 IV: Type of Coffee Shop (Categorical: Chain vs. Independent)
 -This is the factor that determines differences in COVID-19 protocols.
-
 -Can classify coffee shops in your dataset as either "Chain" or "Independent."
 
 DV: Strictness/Standardization of COVID-19 Protocols
 
 Possible ways to be measured:
--Number of enforced protocols (mask mandates, seating restrictions, contactless payment, temperature checks)
-
--Level of enforcement (corporate-mandated vs. discretionary policies)
-
--Consistency across locations (chains might have uniform policies, while independents might vary)
+1. Number of enforced protocols (mask mandates, seating restrictions, contactless payment, temperature checks)
+2. Level of enforcement (corporate-mandated vs. discretionary policies)
+3. Consistency across locations (chains might have uniform policies, while independents might vary)
 
 ### Plan for Data Wrangling
--Filter for relevant variables
-
--Fix inconsistencies: If protocols are recorded differently, make sure they are uniform.
-
--Time Period Standardization: If visitations or protocols changed over time, align them to a consistent timeframe
+1. Filter for relevant variables
+2. Fix inconsistencies: If protocols are recorded differently, make sure they are uniform.
+3. Time Period Standardization: If visitations or protocols changed over time, align them to a consistent timeframe
 
 ### Plan for Data Visualization
 1. Box Plot – Protocol Strictness Distribution
