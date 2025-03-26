@@ -179,4 +179,4 @@ DV: Sanitation Enforcement
 
 
 ## Conclusion
-
+Our study will examine the impact of COVID-19 cleaning regulations on coffee shop visits. We will also take into consideration key insights such as customer trust, age, business types, and health behaviors. From analyzing and displaying the data, we will be able to identify trends that indicate the impact of safety regulations on people's decisions.
