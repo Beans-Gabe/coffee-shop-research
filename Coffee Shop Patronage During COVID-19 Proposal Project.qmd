@@ -27,7 +27,7 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 ## Research Objectives 
 - Determine if the effect of visible sanitation and COVID-19 prevention steps being implemented helped gain costumers trust.
 - Identify which coffee shops during COVID-19 were trending.
-
+- Identify which age groups were the most frequent visitors of coffee shops during the pandemic. 
 
 ## Importance of the Topic
 - These behaviors allow coffee shops to understand and come up with the necessary strategies to improve service. 
