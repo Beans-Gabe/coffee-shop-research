@@ -52,7 +52,7 @@ COVID-19 changed how customers interact with different hospitality/service estab
 **Plan for Data Visualization:** Scatter Plot showing the relationship between safety preference score and customer visits.
 
 ## RQ2 / H2  
-**RQ:**  Did coffee shop chains have protocols different from independent shops?
+**RQ:**  Did coffee shop chains have different protocols from independent shops?
 
 **Hypothesis:** Coffee shop chains implemented stricter and more standardized COVID-19 protocols than independent coffee shops due to corporate policies and liability concerns.
 
