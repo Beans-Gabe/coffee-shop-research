@@ -58,16 +58,16 @@ COVID-19 changed how customers interact with different hospitality/service estab
 
 ### IVs and DVs
 
-1. IV: Type of Coffee Shop (Categorical: Chain vs. Independent).
-- This is the factor that determines differences in COVID-19 protocols.
-- Can classify coffee shops in the dataset as either "Chain" or "Independent."
+1. IV: Type of Coffee Shop (Categorical: Chain vs. Independent).  
+- This is the factor that determines differences in COVID-19 protocols.  
+- Can classify coffee shops in the dataset as either "Chain" or "Independent."  
 
-2. DV: Strictness/Standardization of COVID-19 Protocols
-- Number of enforced protocols (mask mandates, seating restrictions, contactless payment, temperature checks)
-- Level of enforcement (corporate-mandated vs. discretionary policies)
-- Consistency across locations (chains might have uniform policies, while independents might vary)
+2. DV: Strictness/Standardization of COVID-19 Protocols  
+- Number of enforced protocols (mask mandates, seating restrictions, contactless payment, temperature checks)  
+- Level of enforcement (corporate-mandated vs. discretionary policies)  
+- Consistency across locations (chains might have uniform policies, while independents might vary)  
 
-### Plan for Data Wrangling
+### Plan for Data Wrangling  
 - Filter for relevant variables
 - Fix inconsistencies
 - Time period standardization
@@ -125,8 +125,8 @@ DV: Wearing a Mask in a Coffee Shop
 **Hypothesis:** Younger individuals (e.g., 18-34) were more willing to visit coffee shops during the pandemic than older individuals (e.g., 35+) due to differing risk perceptions and health concerns.
 
 **Why?:**  
-- Older individuals face more health concerns, so they were more cautious about visiting public areas such as coffee shops.
-- Younger individuals rely more on coffee shops for their daily lives and social activities, so they are more likely to visit even during the pandemic.
+- Older individuals face more health concerns, so they were more cautious about visiting public areas such as coffee shops.  
+- Younger individuals rely more on coffee shops for their daily lives and social activities, so they are more likely to visit even during the pandemic.  
 
 ### IVs and DVs
 **Independent Variable (IV):**      
@@ -176,7 +176,6 @@ DV: Sanitation Enforcement
 - Bar chart for sanitation reminders   
 - Bar chart for health recordings of staff/customer   
 - Grouped bar chart overall for comparison   
-
 
 
 ## Conclusion
