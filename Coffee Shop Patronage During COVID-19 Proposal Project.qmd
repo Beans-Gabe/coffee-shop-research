@@ -20,7 +20,7 @@ execute:
 editor: visual
 ---
 
-## Problem Denfinition 
+## Problem Definition 
 COVID-19 changed how costumers interact with different hospitality/service establishments but we will be examining coffee shops in particular. This study assesses whether customers felt safer when they saw staff actively cleaning tables, machines, and counter tops at the coffee shops.
 
 
@@ -158,24 +158,24 @@ DV: Wearing a Mask in a Coffee Shop
 
 ### IVs and DVs
 
-IV: Customer/Staff Health & Poster 
-- The health of customers and staff as well as posters will determine the sanitary enforcement, being either healthy and good if enforced or unhealthy and suffering if not enforced 
-- Both of these variables are classified as independent because they change the outcome and are not the dependents 
+IV: Customer/Staff Health & Poster   
+- The health of customers and staff as well as posters will determine the sanitary enforcement, being either healthy and good if enforced or unhealthy and suffering if not enforced   
+- Both of these variables are classified as independent because they change the outcome and are not the dependents   
 
 DV: Sanitation Enforcement 
-- This factor is both the resulting aspect we are studying for to answer the RQ as well as the solitary decisor for the cofee shops' data 
-- This depends on the other two factors of customer/staff health and the posters' enforcement of protocols 
+- This factor is both the resulting aspect we are studying for to answer the RQ as well as the solitary decisor for the cofee shops' data   
+- This depends on the other two factors of customer/staff health and the posters' enforcement of protocols   
 
 ### Plan for Data Wrangling 
-- Filter coffee shop appearances by category and numerical value of sanitation reminders present 
-- Filter positive health of staff/customers 
-- Compare the data 
+- Filter coffee shop appearances by category and numerical value of sanitation reminders present   
+- Filter positive health of staff/customers   
+- Compare the data   
 
 ### Plan for Data Visualization
-- Table presentation for categorical data 
-- Bar chart for sanitation reminders 
-- Bar chart for health recordings of staff/customer 
-- Grouped bar chart overall for comparison 
+- Table presentation for categorical data   
+- Bar chart for sanitation reminders   
+- Bar chart for health recordings of staff/customer   
+- Grouped bar chart overall for comparison   
 
 
 
