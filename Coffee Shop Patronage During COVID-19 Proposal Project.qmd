@@ -58,7 +58,9 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 
 **Why?:**
 -Chains typically follow corporate-wide mandates that ensure uniformity.
+
 -Large businesses are more exposed to legal and public scrutiny, so they tend to enforce stricter safety measures.
+
 -Independently owned coffee shops may have had more freedom to adapt based on local customer expectations rather than rigid corporate rules.
 
 
@@ -66,17 +68,23 @@ COVID-19 changed how costumers interact with different hospitality/service estab
 
 IV: Type of Coffee Shop (Categorical: Chain vs. Independent)
 -This is the factor that determines differences in COVID-19 protocols.
+
 -Can classify coffee shops in your dataset as either "Chain" or "Independent."
 
 DV: Strictness/Standardization of COVID-19 Protocols
+
 Possible ways to be measured:
 -Number of enforced protocols (mask mandates, seating restrictions, contactless payment, temperature checks)
+
 -Level of enforcement (corporate-mandated vs. discretionary policies)
+
 -Consistency across locations (chains might have uniform policies, while independents might vary)
 
 ### Plan for Data Wrangling
 -Filter for relevant variables
+
 -Fix inconsistencies: If protocols are recorded differently, make sure they are uniform.
+
 -Time Period Standardization: If visitations or protocols changed over time, align them to a consistent timeframe
 
 ### Plan for Data Visualization
