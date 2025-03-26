@@ -74,26 +74,18 @@ Possible ways to be measured:
 -Level of enforcement (corporate-mandated vs. discretionary policies)
 -Consistency across locations (chains might have uniform policies, while independents might vary)
 
-
 ### Plan for Data Wrangling
 -Filter for relevant variables
 -Fix inconsistencies: If protocols are recorded differently, make sure they are uniform.
 -Time Period Standardization: If visitations or protocols changed over time, align them to a consistent timeframe
 
 ### Plan for Data Visualization
-
-1. Bar Charts – Comparing Protocol Adoption 
-Purpose: Show the percentage of coffee shops (chains vs. independents) that adopted each protocol. 
-X-axis: Types of protocols (masks, contactless payment, seating limits)
-Y-axis: Percentage of coffee shops enforcing each protocol
-Color: Chain vs. Independent
-
-2. Box Plot – Protocol Strictness Distribution
+1. Box Plot – Protocol Strictness Distribution
 Purpose: Show the spread of strictness scores for chains vs. independent coffee shops.
 X-axis: Coffee shop type (Chain vs. Independent)
 Y-axis: Strictness score (sum of protocols enforced)
 
-3. Heatmap – Correlation Between Visitations & Protocols
+2. Heatmap – Correlation Between Visitations & Protocols
 Purpose: Show how strictness of protocols impacted customer visitations.
 X-axis: Strictness levels (low, medium, high)
 Y-axis: Change in visitations (%)
