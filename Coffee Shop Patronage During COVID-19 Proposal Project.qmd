@@ -97,12 +97,12 @@ Individuals with underlying health problems are more susceptible to COVID-19, an
 
 ### IVs and DVs
 
-IV: Presence of Underlying Health Issue
--The factor that affects whether or not individuals wear a mask
--Can classify as either "has underlying health problem (UHP)" or "does not have (UHP)"
-DV: Wearing a Mask in a Coffee Shop
-- This factor is responsive to whether or not subjects believe they have an underlying health problem.
-- Can be classified as "did wear mask" or "did not wear mask"
+IV: Presence of Underlying Health Issue  
+- The factor that affects whether or not individuals wear a mask  
+- Can classify as either "has underlying health problem (UHP)" or "does not have (UHP)"  
+DV: Wearing a Mask in a Coffee Shop  
+- This factor is responsive to whether or not subjects believe they have an underlying health problem.  
+- Can be classified as "did wear mask" or "did not wear mask"  
 
 ### Plan for Data Wrangling
 - Believers
